@@ -12,3 +12,5 @@ test-> brach test 1
 test -> branch 1 
 
 test -> branch-clone 2-2-2
+
+test clone-d
