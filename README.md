@@ -11,3 +11,4 @@ test 2 -> branch 2
 test-> brach test 1
 test -> branch 1 
 
+test -> branch-clone 2
