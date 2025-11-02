@@ -14,3 +14,5 @@ test -> branch 1
 test -> branch-clone 2-2-2
 
 test clone-d1-d2
+
+test -d2
